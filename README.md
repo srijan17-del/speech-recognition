@@ -1,8 +1,8 @@
-# React + Vite
+<img width="898" alt="image" src="https://github.com/srijan17-del/speech-recognition/assets/59140222/7beef881-3863-4706-83fa-d1b999e98f10">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple speech-recognition webapp designed using vite-react
+It uses react-speech-recognition package which enables the site to convert speech to text and user can copy the text content to clipboaed too!!
 
-Currently, two official plugins are available:
+Tech stack:
+react-dom tailwindcss react-speech-recognition vite-react react-use-clipboard
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
